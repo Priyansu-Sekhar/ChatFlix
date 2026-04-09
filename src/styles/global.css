@@ -1,0 +1,10 @@
+/* Example: global styles */
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}

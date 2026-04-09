@@ -1,11 +1,11 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import ChatPage from './pages/ChatPage.jsx'
-import AboutPage from './pages/AboutPage'
-import EntryPage from './pages/EntryPage'
-import Contact from './components/Contact'
-import SignIn from './components/SignIn'
-import SignUp from './components/SignUp'
+import ChatPage from './pages/ChatPage.jsx';
+import AboutPage from './pages/AboutPage.jsx';
+import EntryPage from './pages/EntryPage.jsx';
+import Contact from './components/Contact.jsx';
+import SignIn from './components/SignIn.jsx';
+import SignUp from './components/SignUp.jsx';
 
 const App = () => {
   return (
